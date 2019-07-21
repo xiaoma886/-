@@ -38,5 +38,12 @@
     "subContext": "wx-open-data-project"
   },
   "xxteaKey": "643f4cf2-0dc1-4b",
-  "zipCompressJs": true
+  "zipCompressJs": true,
+  "baidugame": {
+    "appid": "testappid",
+    "orientation": "portrait",
+    "REMOTE_SERVER_ROOT": "",
+    "subContext": ""
+  },
+  "appBundle": false
 }

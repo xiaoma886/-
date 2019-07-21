@@ -115,18 +115,17 @@
     },
     "_rotationX": 0,
     "_rotationY": 0,
-    "_quat": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
     "_skewX": 0,
     "_skewY": 0,
     "_zIndex": 0,
     "groupIndex": 0,
-    "_id": "1f51fRKdx9KAZIFK6yiet28"
+    "_id": "1f51fRKdx9KAZIFK6yiet28",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "__type__": "cc.Node",
@@ -176,18 +175,17 @@
     },
     "_rotationX": 0,
     "_rotationY": 0,
-    "_quat": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
     "_skewX": 0,
     "_skewY": 0,
     "_zIndex": 0,
     "groupIndex": 0,
-    "_id": "2ecXbVuURNTrdfjy5OmmyR"
+    "_id": "2ecXbVuURNTrdfjy5OmmyR",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "__type__": "cc.Camera",
@@ -269,18 +267,17 @@
     },
     "_rotationX": 0,
     "_rotationY": 0,
-    "_quat": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
     "_skewX": 0,
     "_skewY": 0,
     "_zIndex": 0,
     "groupIndex": 0,
-    "_id": "2cO9MEDu9LVZrqmnGfz7/l"
+    "_id": "2cO9MEDu9LVZrqmnGfz7/l",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "__type__": "cc.Node",
@@ -340,18 +337,17 @@
     },
     "_rotationX": 0,
     "_rotationY": 0,
-    "_quat": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
     "_skewX": 0,
     "_skewY": 0,
     "_zIndex": 0,
     "groupIndex": 0,
-    "_id": "a7HY/6qe9LCaUDMgieh28S"
+    "_id": "a7HY/6qe9LCaUDMgieh28S",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "__type__": "cc.Node",
@@ -411,18 +407,17 @@
     },
     "_rotationX": 0,
     "_rotationY": 0,
-    "_quat": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
     "_skewX": 0,
     "_skewY": 0,
     "_zIndex": 0,
     "groupIndex": 0,
-    "_id": "beBIAQtuBEXIRHLReoou7q"
+    "_id": "beBIAQtuBEXIRHLReoou7q",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "__type__": "cc.Node",
@@ -472,18 +467,17 @@
     },
     "_rotationX": 0,
     "_rotationY": 0,
-    "_quat": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
     "_skewX": 0,
     "_skewY": 0,
     "_zIndex": 0,
     "groupIndex": 0,
-    "_id": "96rb3QuWNFNLB+dnHm6xGb"
+    "_id": "96rb3QuWNFNLB+dnHm6xGb",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "__type__": "cc.Sprite",
@@ -613,18 +607,17 @@
     },
     "_rotationX": 0,
     "_rotationY": 0,
-    "_quat": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
     "_skewX": 0,
     "_skewY": 0,
     "_zIndex": 0,
     "groupIndex": 0,
-    "_id": "597SjGgLlCHYZyX1YY26tE"
+    "_id": "597SjGgLlCHYZyX1YY26tE",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "__type__": "cc.Node",
@@ -681,18 +674,17 @@
     },
     "_rotationX": 0,
     "_rotationY": 0,
-    "_quat": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
     "_skewX": 0,
     "_skewY": 0,
     "_zIndex": 0,
     "groupIndex": 0,
-    "_id": "efWUSQ3KNBt7btsYgUidM0"
+    "_id": "efWUSQ3KNBt7btsYgUidM0",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "__type__": "cc.Mask",
@@ -928,18 +920,17 @@
     },
     "_rotationX": 0,
     "_rotationY": 0,
-    "_quat": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
     "_skewX": 0,
     "_skewY": 0,
     "_zIndex": 0,
     "groupIndex": 0,
-    "_id": "c7ADFhGIRAwqF8k4y0tnrO"
+    "_id": "c7ADFhGIRAwqF8k4y0tnrO",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "__type__": "cc.Widget",

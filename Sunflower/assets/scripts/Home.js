@@ -125,13 +125,24 @@ cc.Class({
 
         this._initLeftOright();
 
-        NetUtils.doExcel(function(code, dataObj) {
-            if (code == 0 && dataObj) {
-                if (dataObj.code == 0) {
-                    this._dataArray = dataObj.data;
-                }
-            }
-        }.bind(this));
+        // NetUtils.doExcel(function(code, dataObj) {
+        //     if (code == 0 && dataObj) {
+        //         if (dataObj.code == 0) {
+        //             this._dataArray = dataObj.data;
+        //         }
+        //     }
+        // }.bind(this));
+        // 可以使用云数据库获取
+        this._dataArray = [
+            { 'spend': 1, 'score': 1,'animLevel':0.3 },
+            { 'spend': 2, 'score': 20 ,'animLevel':0.5 },
+            { 'spend': 5, 'score': 30 ,'animLevel':1 },
+            { 'spend': 10, 'score': 40,'animLevel':1.3 },
+            { 'spend': 15, 'score': 60 ,'animLevel':1.5 },
+            { 'spend': 20, 'score': 100 ,'animLevel':2 },
+        ];
+        
+        
 
         //异步加载龙骨动画
         this.runAsyncGetDragonRes("sunflower", this._defaultTimeScale)

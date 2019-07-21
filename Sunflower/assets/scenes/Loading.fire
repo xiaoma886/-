@@ -115,18 +115,17 @@
     },
     "_rotationX": 0,
     "_rotationY": 0,
-    "_quat": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
     "_skewX": 0,
     "_skewY": 0,
     "_zIndex": 0,
     "groupIndex": 0,
-    "_id": "9b2csnmYxJ7Y4DIGYez3E2"
+    "_id": "9b2csnmYxJ7Y4DIGYez3E2",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "__type__": "cc.Node",
@@ -176,18 +175,17 @@
     },
     "_rotationX": 0,
     "_rotationY": 0,
-    "_quat": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
     "_skewX": 0,
     "_skewY": 0,
     "_zIndex": 0,
     "groupIndex": 0,
-    "_id": "d5M6CtnjND/b+PaqaAOeO/"
+    "_id": "d5M6CtnjND/b+PaqaAOeO/",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "__type__": "cc.Camera",
@@ -266,18 +264,17 @@
     },
     "_rotationX": 0,
     "_rotationY": 0,
-    "_quat": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
     "_skewX": 0,
     "_skewY": 0,
     "_zIndex": 0,
     "groupIndex": 0,
-    "_id": "139mOd20dJFYjOuZR4st4Z"
+    "_id": "139mOd20dJFYjOuZR4st4Z",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "__type__": "cc.Node",
@@ -330,18 +327,17 @@
     },
     "_rotationX": 0,
     "_rotationY": 0,
-    "_quat": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
     "_skewX": 0,
     "_skewY": 0,
     "_zIndex": 0,
     "groupIndex": 0,
-    "_id": "e8vlKXpAxJNpIc/2DH+PUg"
+    "_id": "e8vlKXpAxJNpIc/2DH+PUg",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "__type__": "cc.Sprite",

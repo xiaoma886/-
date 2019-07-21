@@ -115,18 +115,17 @@
     },
     "_rotationX": 0,
     "_rotationY": 0,
-    "_quat": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
     "_skewX": 0,
     "_skewY": 0,
     "_zIndex": 0,
     "groupIndex": 0,
-    "_id": "52sIWerAFLi6dkkzkVqwIy"
+    "_id": "52sIWerAFLi6dkkzkVqwIy",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "__type__": "cc.Node",
@@ -176,18 +175,17 @@
     },
     "_rotationX": 0,
     "_rotationY": 0,
-    "_quat": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
     "_skewX": 0,
     "_skewY": 0,
     "_zIndex": 0,
     "groupIndex": 0,
-    "_id": "e5o2AlHWxHk5K6abQM7ieF"
+    "_id": "e5o2AlHWxHk5K6abQM7ieF",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "__type__": "cc.Camera",
@@ -262,18 +260,17 @@
     },
     "_rotationX": 0,
     "_rotationY": 0,
-    "_quat": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
     "_skewX": 0,
     "_skewY": 0,
     "_zIndex": 0,
     "groupIndex": 0,
-    "_id": "d9NhDoPSZOcoO5Wk0Af/jM"
+    "_id": "d9NhDoPSZOcoO5Wk0Af/jM",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "__type__": "cc.Sprite",
